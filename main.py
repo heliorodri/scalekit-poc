@@ -1,0 +1,2 @@
+#https://developers.google.com/workspace/calendar/api/quickstart/python
+
