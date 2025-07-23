@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+scalekit-sdk-python
+uvicorn
+SQLAlchemy
+psycopg2-binary
