@@ -1,1 +1,8 @@
 .env
+*secret*.json
+.venv/
+env/
+__pycache__/
+credentials.json
+.vscode/
+scalekit_backend/db/instance/
